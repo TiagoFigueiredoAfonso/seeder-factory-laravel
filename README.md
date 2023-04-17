@@ -53,9 +53,15 @@
  - **Agora rode o comando seeder para gerar os dados no banco:**
  
    _php artisan db:seed_
-
-<img src="https://user-images.githubusercontent.com/67653921/232567658-4e0a3ddb-51e1-4574-9e57-b2a722bfd664.png">
-
+   
+<hr>
+<h3 align="center">Telas do sistema</h3>
+<div align="center">   
+    <img src="https://user-images.githubusercontent.com/67653921/232567658-4e0a3ddb-51e1-4574-9e57-b2a722bfd664.png">
+</div></br><br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/67653921/232568295-bcd75b0a-2270-440c-8574-8f896fe08585.png">
+</div>
     
  
 
