@@ -54,6 +54,7 @@
  
    _php artisan db:seed_
 
+<img src="https://user-images.githubusercontent.com/67653921/232567658-4e0a3ddb-51e1-4574-9e57-b2a722bfd664.png">
 
     
  
